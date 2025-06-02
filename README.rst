@@ -1,4 +1,4 @@
-Open Mining
+*Open Mining*
 ===========
 
 .. image:: https://raw.github.com/avelino/mining/master/mining/assets/image/openmining.io.png
